@@ -33,7 +33,7 @@ const map = window.map = L.mapbox
     inertia: false, // recommended when using a transitive layer
     zoomAnimation: false
   })
-  .setView([39.766667, -86.15], 12)
+  .setView([42.36, -71.1], 13)
 
 console.log('fetching all')
 Promise
